@@ -1,5 +1,5 @@
 === Hong Kong Transport Links ===
-Contributors: aljonhodfords
+Contributors: OneDay (www.oneday.com.hk)
 Tags: oneday, transport, transport plugin, near transport, near transportation, hong kong, hong kong transport, hong kong transport links
 Requires at least: 4.9
 Tested up to: 5.0.3
