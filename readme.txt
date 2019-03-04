@@ -36,6 +36,12 @@ The data you are inputting in the form are being submitted to the OneDay server 
 5. After filling it up, there's a short code that is going to be generated that is going to be use to display the transport links block in the front-end.
 6. After saving it, you should already see the transport links block in the front-end.
 
+== Frequently Asked Questions ==
+
+= Error when searching the address =
+
+The address might be not in our Database yet, you might contact us about this so we can add it.
+
 == Screenshots ==
 
 1. screenshot-1.png
