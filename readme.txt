@@ -1,5 +1,7 @@
 === Hong Kong Transport Links ===
 Contributors: OneDay (www.oneday.com.hk)
+Author URI: https://www.oneday.com.hk/
+Plugin URI: https://wordpress.org/plugins/oneday-transport-links/
 Tags: oneday, transport, transport plugin, near transport, near transportation, hong kong, hong kong transport, hong kong transport links
 Requires at least: 4.9
 Tested up to: 5.0.3
@@ -15,6 +17,15 @@ This is a FREE Hong Kong transport plugin that you can embed on your website.
 This is a FREE Hong Kong transport plugin that you can embed on your website. We have a database of all transport links for every address in Hong Kong. Any web developer or web master can easily generate transport links for any address in Hong Kong and embed on your website.
 
 The data you are inputting in the form are being submitted to the OneDay server (www.oneday.com.hk) and the server will return the script that generates the transport links block.
+
+**Plugin Features**
+
+- Search engine for the buildings/addresses in Hong Kong.
+- Will provide the script that generates the block of transport transport links.
+
+== Support ==
+
+* For your comments, questions and suggestions, message us at https://www.oneday.com.hk/en_US/info/contact/ or directly email us at info@oneday.com.hk
 
 == Installation ==
 
